@@ -90,11 +90,11 @@ Read the year from the user and store it in year.
 
 If the year is divisible by 4 and not divisible by 100, or divisible by 400, then:
 
-Display â€œThe year is a leap year.â€
+Display the year is a leap year
 
 Else:
 
-Display â€œThe year is not a leap year.â€
+Display the year is not a leap year
 
 Stop
 
