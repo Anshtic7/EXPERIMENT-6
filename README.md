@@ -20,11 +20,11 @@ Start
 
 Read an integer number from the user and store it in num.
 
-If num is greater than 0, display â€œThe number is positive.â€
+If num is greater than 0, display The number is positive.
 
-Else if num is less than 0, display â€œThe number is negative.â€
+Else if num is less than 0, display The number is negative
 
-Else, display â€œThe number is zero.â€
+Else, display â€œThe number is zero
 
 Stop
 
@@ -35,11 +35,11 @@ Start
 
 Read an integer number from the user and store it in num.
 
-If num is equal to 0, display â€œThe number is zero.â€
+If num is equal to 0, display â€œThe number is zero
 
-Else if num modulo 2 is equal to 0, display â€œThe number is even.â€
+Else if num modulo 2 is equal to 0, display The number is even
 
-Else, display â€œThe number is odd.â€
+Else, display The number is odd
 
 STOP
 
